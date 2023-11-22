@@ -7,5 +7,5 @@
   <p><strong>im currently working with <a href="https://defaultpilot.github.io" target="_blank">defaultpilot</a></strong></p>
   <strong><a href="https://byte1001.dev" target="_blank">website</a><label> ✨</label><br></strong>
   <hr>
-  <p><strong>ill update this readme with more info soon 📜</strong></p>
+  <p><strong>ill update this readme with more info 📜</strong></p>
 </div>
